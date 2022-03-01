@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @J-ohna
 - 👀 I’m interested in web development and game development
 - 🌱 I’m currently learning HTML, CSS and JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on: Nothing yet
 - 📫 How to reach me: <a href="https://codeforum.org/index.php?conversations/add&to=Johna">CodeForum</a>
