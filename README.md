@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @J-ohna
+- 👋 Hi, I’m @Johna-123
 - 👀 I’m interested in web development and game development
 - 🌱 I’m currently learning HTML, CSS and JS
 - 💞️ I’m looking to collaborate on: Nothing yet
