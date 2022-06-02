@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Johna-123
 - 👀 I’m interested in web development and game development
-- 🌱 I’m currently learning HTML, CSS and JS and planning on learning Phython
+- 🌱 I’m currently learning HTML, CSS and JS and planning on learning Phython (inspired by <a href='https://github.com/didlly'>@didlly</a>
 - 💞️ I’m looking to collaborate on: Nothing yet
 - 📫 How to reach me: <a href="https://codeforum.org/index.php?conversations/add&to=Johna">CodeForum</a>
