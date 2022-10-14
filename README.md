@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Johna-123
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning JS, PHP, Python and SQL
-- 💞️ I’m looking to collaborate on: Nothing yet
-- 📫 How to reach me: <a href="https://codeforum.org/index.php?conversations/add&to=Johna">CodeForum</a>
+
