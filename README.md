@@ -9,7 +9,10 @@ Languages (and frameworks):
 - TypeScript
 - Node.JS
 - React.JS
-- Python
 - SQL
-- Some C
+- Some Python
 - A little bit of PHP
+- **Learning:**
+  - C
+  - Java
+  - Python
